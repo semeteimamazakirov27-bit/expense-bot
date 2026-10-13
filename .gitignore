@@ -1,1 +1,3 @@
-expenses.db
+.env
+*.db
+__pycache__/
